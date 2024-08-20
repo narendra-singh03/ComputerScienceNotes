@@ -2,6 +2,8 @@
 
 [2. Computer Fundamentals 2](https://ashishmodi.weebly.com/uploads/1/8/9/7/18970467/computer_fundamental.pdf)
 
+[3. Computer Fundamentals 3 ](https://in.okfn.org/files/2013/07/Computer-Fundamental.pdf)
+
 
 
 # Important Topics / Questions :
