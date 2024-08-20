@@ -1,14 +1,14 @@
 
 
-#### Q1. What is the need of Setting up Python?
-#### Q2. What are Data Types With examples.
-#### Q3. What are variables and there use? With example.
-#### Q4. What are expressions in a programming Language?
-#### Q5. What are Statements in a programming Language?
-#### Q6. What is the precedence of operators?
-#### Q7. What is comments in a programming language?
-#### Q8 . What are Modules in a programming language?
-#### Q9. What are Functions and their usage?
+#### Q01. What is the need of Setting up Python?
+#### Q02. What are Data Types With examples.
+#### Q03. What are variables and there use? With example.
+#### Q04. What are expressions in a programming Language?
+#### Q05. What are Statements in a programming Language?
+#### Q06. What is the precedence of operators?
+#### Q07. What is comments in a programming language?
+#### Q08 . What are Modules in a programming language?
+#### Q09. What are Functions and their usage?
 #### Q10. Flow of Executions.
 #### Q11. parameters and arguments in programming language?
 #### Q12. What is Conditional Statements?
