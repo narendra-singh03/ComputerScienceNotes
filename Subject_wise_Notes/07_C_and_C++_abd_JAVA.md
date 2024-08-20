@@ -3,7 +3,9 @@
 #### 1. What is Java?
 
 Java is a high-level, object-oriented programming language that was developed by Sun Microsystems in 1995. It is platform-independent, meaning that programs written in Java can run on any platform that has a Java Virtual Machine (JVM) installed. Visit Oracle’s official website to download JVM.
+
 ---
+
 #### 2. What are the features of Java?
 
 Java has several features that make it a popular programming language. Some of these features include platform independence, object-oriented programming, automatic memory management, robustness, and security.
