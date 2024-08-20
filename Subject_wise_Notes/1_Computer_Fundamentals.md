@@ -39,10 +39,17 @@
 #### Q11. Explain Assembly Languages.
 #### Q12. Difference between High level language and Low Level Language. Provide examples as well.
 #### Q13. What is a Compiler? What is the use of it?
-#### Q
-#### Q
-#### Q
-#### Q
+#### Q14. What is an Interpreter?
+#### Q15. What is an Operating System? What are the function of operating system?
+#### Q16. Type of Operating Systems? 
+    - Batch Operating System
+    - Real Time Operating system
+    - Time Sharing Operating System
+    - MultiProgramming Operating System
+    - MultiProcessing Operating System
+#### Q17. DIfference between Hacking, phishing, Spamming?
+
+
 #### Q
 #### Q
 
