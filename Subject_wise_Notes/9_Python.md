@@ -12,3 +12,9 @@
 #### 2. Basic Knowledge
 - Understanding of Programming Concepts: Familiarize yourself with basic programming concepts like variables, loops, conditionals, functions, and data structures (lists, dictionaries, sets, tuples).
 - Python Syntax: Learn the basic syntax of Python, including how to write and run Python scripts.
+
+---
+
+
+
+
