@@ -1,21 +1,27 @@
 # COMMON QUESTIONS #
 
 #### 1. What is Java?
+
 Java is a high-level, object-oriented programming language that was developed by Sun Microsystems in 1995. It is platform-independent, meaning that programs written in Java can run on any platform that has a Java Virtual Machine (JVM) installed. Visit Oracle’s official website to download JVM.
 ---
 #### 2. What are the features of Java?
+
 Java has several features that make it a popular programming language. Some of these features include platform independence, object-oriented programming, automatic memory management, robustness, and security.
 
 #### 3. What is JVM?
+
 JVM stands for Java Virtual Machine. It is an abstract machine that provides the runtime environment in which Java programs are executed. The JVM interprets Java bytecode and translates it into machine-specific code.
 ---
 #### 4. What is the difference between JDK, JRE, and JVM?
+
 JDK stands for Java Development Kit. It is a software development kit that includes tools for developing, compiling, and debugging Java programs. JRE stands for Java Runtime Environment. It is a software environment that provides the necessary runtime libraries and components for running Java programs. JVM is the virtual machine that executes the Java bytecode.
 ---
-#### 5. What is the difference between a class and an object?
+#### 5. What is the difference between a class and an object?  
+
 A class is a blueprint or template for creating objects, while an object is an instance of a class. In other words, a class defines the properties and behaviors of an object, while an object is an instance of those properties and behaviors.
 ---
 #### 6. What is object-oriented programming?
+
 Object-oriented programming (OOP) is a programming paradigm that is based on the concept of objects. In OOP, programs are organized around objects, which have properties (attributes) and behaviors (methods). OOP emphasizes encapsulation, inheritance, polymorphism, and abstraction.
 ---
 #### 7. What are the four principles of OOP?
